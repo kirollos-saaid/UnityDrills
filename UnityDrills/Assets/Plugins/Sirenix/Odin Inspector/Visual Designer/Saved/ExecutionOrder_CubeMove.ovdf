@@ -1,0 +1,7 @@
+OVDF v1.0
+ExecutionOrder.CubeMove, Assembly-CSharp
+
+# speed
++ [Sirenix.OdinInspector.PropertyRangeAttribute]
+	Min = 5
+	Max = 20
